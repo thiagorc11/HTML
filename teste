@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Operadores {
+    public static void main(String []args){
+        Scanner leitor = new Scanner(System.in);
+
+
+System.out.print("Insira valor de inclinação da reta: ")
+        double a = entrada.nextDouble();
+
+System.out.print("Digite valor 2: ")
+double b = entrada.nextDouble();
+
+System.out.print("Digite valor 3: ")
+double c = entrada.nextDouble();
+
+
+
+double y = a * x + b;
+
+System.out.print ("y = " +y);
+
+    operadores.close();    
+    }
+}
